@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/MCROSS_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -23,7 +23,7 @@
 
 
    <p align="left">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
+  <a href="https://github.com/naveeddogar/MCROSS-MD/fork">
     <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/naveeddogar/KING-MD/stargazers">
@@ -114,10 +114,6 @@
 
 #### Thanks To 
 
-1: Suhail Bro
+1: KÌÑG M-ÇRØSS 
 
-2: Zubair Bro
-
-3: SamPandy Bro
-
-#### NOTE: DON'T MODIFY THIS BOT FIRST INFORM THE OWNER
+#### NOTE: DON'T MODIFY THIS BOT FIRST INFORM KING M-CROSS (2349042566473)
