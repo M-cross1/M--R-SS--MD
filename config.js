@@ -7,7 +7,7 @@ global.owner = process.env.OWNER_NUMBER.split("2349042566473")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://KING-MDBOT:KING-MDBOT@cluster0.ltjjfkx.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'kingmcross090@gmail.com'
-global.github = ''
+global.github = 'https://github.com/M-cross1/M--R-SS--MD/tree/main'
 global.location = 'pakistan'
 global.gurl = 'https://wa.me/2349042566473' // add your username
 global.sudo = process.env.SUDO || '2349042566473'
